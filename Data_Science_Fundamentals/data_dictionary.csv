@@ -1,0 +1,29 @@
+﻿Variable,Description
+ID,Customer's unique identifier
+Year_Birth,Customer's birth year
+Education,Customer's education level
+Marital_Status,Customer's marital status
+ Income ,Customer's yearly household income
+Kidhome,number of small children in customer's household number of teenagers in customer's household
+Teenhome,no of teenagers in customer's house
+Dt_Customer,Date of customer's enrollment with the company
+Recency,number of days since the last purchase
+MntWines,amount spent on wine in last 2 years
+MntFruits,amount spent on fruits in last 2 years
+MntMeatProducts,amount spent on meat products in last 2 years
+MntFishProducts,amount spent on fish products in last 2 years
+MntSweetProducts,amount spent on sweet products in last 2 years
+MntGoldProds,amount spent on gold in last 2 years
+NumDealsPurchases,no of purchases made with discount
+NumWebPurchases,no of purchases made through company's website
+NumCatalogPurchases,no of purchases made using catelogue
+NumStorePurchases,no of purchases made directly in store
+NumWebVisitsMonth,no of visits to company's website in the last month
+AcceptedCmp3,"1 if the customer accepted the offer in the 3rd campaign, 0 otherwise"
+AcceptedCmp4,"1 if the customer accepted the offer in the 4th campaign, 0 otherwise"
+AcceptedCmp5,"1 if the customer accepted the offer in the 5th campaign, 0 otherwise"
+AcceptedCmp1,"1 if the customer accepted the offer in the first campaign, 0 otherwise"
+AcceptedCmp2,"1 if the customer accepted the offer in the 2nd campaign, 0 otherwise"
+Response,"1 if the customer accepted the offer in the last campaign, 0 otherwise"
+Complain,1 if customer complained in the last 2 years
+Country,Customer's location
